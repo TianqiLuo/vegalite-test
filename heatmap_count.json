@@ -1,0 +1,122 @@
+[
+    {
+        "mark": "Bar",
+        "k": 2,
+        "count": 1887
+    },
+    {
+        "mark": "Line",
+        "k": 2,
+        "count": 443
+    },
+    {
+        "mark": "Pie",
+        "k": 2,
+        "count": 2112
+    },
+    {
+        "mark": "Scatter",
+        "k": 2,
+        "count": 686
+    },
+    {
+        "mark": "Heatmap",
+        "k": 2,
+        "count": 972
+    },
+    {
+        "mark": "Boxplot",
+        "k": 2,
+        "count": 834
+    },
+    {
+        "mark": "Bar",
+        "k": 3,
+        "count": 557
+    },
+    {
+        "mark": "Line",
+        "k": 3,
+        "count": 587
+    },
+    {
+        "mark": "Pie",
+        "k": 3,
+        "count": 1880
+    },
+    {
+        "mark": "Scatter",
+        "k": 3,
+        "count": 369
+    },
+    {
+        "mark": "Heatmap",
+        "k": 3,
+        "count": 900
+    },
+    {
+        "mark": "Boxplot",
+        "k": 3,
+        "count": 678
+    },
+    {
+        "mark": "Bar",
+        "k": 4,
+        "count": 1196
+    },
+    {
+        "mark": "Line",
+        "k": 4,
+        "count": 1152
+    },
+    {
+        "mark": "Pie",
+        "k": 4,
+        "count": 1392
+    },
+    {
+        "mark": "Scatter",
+        "k": 4,
+        "count": 494
+    },
+    {
+        "mark": "Heatmap",
+        "k": 4,
+        "count": 1130
+    },
+    {
+        "mark": "Boxplot",
+        "k": 4,
+        "count": 1032
+    },
+    {
+        "mark": "Bar",
+        "k": 5,
+        "count": 1077
+    },
+    {
+        "mark": "Line",
+        "k": 5,
+        "count": 1187
+    },
+    {
+        "mark": "Pie",
+        "k": 5,
+        "count": 1488
+    },
+    {
+        "mark": "Scatter",
+        "k": 5,
+        "count": 319
+    },
+    {
+        "mark": "Heatmap",
+        "k": 5,
+        "count": 1309
+    },
+    {
+        "mark": "Boxplot",
+        "k": 5,
+        "count": 395
+    }
+]
